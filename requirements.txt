@@ -5,4 +5,4 @@ streamlit==1.24.1
 matplotlib==3.7.1
 seaborn==0.12.2
 plotly==5.15.0
-sqlite3  # included with standard Python, no need to install
+
