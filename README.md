@@ -1,6 +1,6 @@
 # 🚨 Payment Fraud Detection Dashboard
 
-An end-to-end interactive dashboard built with Python, SQL, machine learning, and Streamlit to detect, analyze, and visualize payment fraud patterns. Designed to showcase data engineering, fraud analytics, and visualization skills aligned with Google’s Trust & Safety team standards.
+An end-to-end interactive dashboard built with Python, SQL, machine learning, and Streamlit to detect, analyze, and visualize payment fraud patterns. Designed to showcase data engineering, fraud analytics, and visualization.
 
 ---
 
