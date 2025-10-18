@@ -18,6 +18,7 @@ An end-to-end interactive dashboard built with Python, SQL, machine learning, an
 
 
 ## 📸 Dashboard Preview
+Link to Interactive Dashoard: https://payment--fraud-detection.streamlit.app/
 
 <img width="1592" height="877" alt="fraud trend" src="https://github.com/user-attachments/assets/fba77292-429d-46d2-8639-6b375fde6fa2" />
 
